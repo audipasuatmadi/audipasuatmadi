@@ -1,20 +1,27 @@
-### Hi There! I'm Audi 👋
+### Hello There!
+I am Audi, from Bali Indonesia, currently a Software Engineer (backend) Intern at tiket.com.
 
-<!--
-**audipasuatmadi/audipasuatmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There is another github that I use for tiket.com developments: 
+https://github.com/putuaudipasuatmadi
 
-Here are some ideas to get you started:
+---
+Most of the time, I code on Java, Go, TypeScript, and other languages.
+I have experience on:
+- Backend Engineering
+- Frontend Engineering
+- Android Development
+- Game Development
+- Arduino & IoTs
+- Machine Learning
+- UI/UX
 
-- 🔭 I’m currently studying on Udayana University
-- 🌱 I’m currently learning Microservices and Golang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I have a strong interest in Backend Engineering.
 
-I'm from Bali, Indonesia and I'm a student majoring Computer Science at Udayana University. For web frameworks, I am proficient at React.js, and decent at Node.js & Golang. For Android, I am proficient at Android Development using Kotlin.
+---
 
-At this moment I am interested at Microservices, and currently learning in depth about it. Thank you for visiting!
+### Contacts:
+Linkedin:
+- https://www.linkedin.com/in/putu-audi-pasuatmadi-176206192/
+
+Email:
+- audipasuatmadi@gmail.com
